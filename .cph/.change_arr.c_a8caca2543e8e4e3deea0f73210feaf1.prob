@@ -1,0 +1,1 @@
+{"name":"Local: change_arr","url":"d:\\Batch 3\\C programming\\PracticeProblem\\change_arr.c","tests":[{"id":1683203092828,"input":"5\n10 20 30 40 50","output":"10 20 30 40 100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch 3\\C programming\\PracticeProblem\\change_arr.c","group":"local","local":true}

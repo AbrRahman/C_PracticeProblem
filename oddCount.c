@@ -1,5 +1,6 @@
 #include<stdio.h>
 int odd_count(int arr[],int n){
+    //   int * arr akare perameter pathano jabe
     int count =0;
     for(int i=0;i<n;i++){
       if(arr[i]%2==1){
