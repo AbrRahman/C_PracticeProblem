@@ -1,0 +1,1 @@
+{"name":"Local: swap_number","url":"d:\\Batch 3\\C programming\\PracticeProblem\\swap_number.c","tests":[{"id":1683203456614,"input":"10 20","output":"20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch 3\\C programming\\PracticeProblem\\swap_number.c","group":"local","local":true}
